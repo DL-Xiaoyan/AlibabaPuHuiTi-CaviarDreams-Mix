@@ -1,39 +1,38 @@
 NOTICE
 
 AlibabaPuHuiTi-CaviarDreams-Mix
-A derivative combined font (derivative work), created by merging the following
-open-licensed font families.
+A derivative combined font, created by merging the following two font families.
 
 Source fonts:
 
 1. Alibaba PuHuiTi (Alibaba Sans)
-   Copyright: Alibaba Group
+   Copyright: Alibaba Group (阿里巴巴集团)
    Used for: Chinese ideographs (CJK glyphs)
-   License: SIL Open Font License, Version 1.1
    Official download: https://fonts.alibabagroup.com/
+   License terms: 阿里巴巴字体免费商用授权 —— 允许个人与企业免费使用（含商用），
+   但明确禁止对字体文件进行修改、仿制、转换、二次发布。
 
 2. Caviar Dreams
-   Copyright: Nicolas Despeyroux
+   Copyright: Lauren Thompson (Nymphont)
    Used for: Latin letters, digits and punctuation
-   License: SIL Open Font License, Version 1.1
    Official download: https://www.dafont.com/caviar-dreams.font
+   License terms: Nymphont License —— 允许个人与商业使用，
+   但禁止分发原版或修改后的字体数据。
 
 Font variants included in this repository:
 
 - AlibabaPuHuiTi-CaviarDreams-Thin
 - AlibabaPuHuiTi-CaviarDreams-Medium
 
-Both source fonts permit modification and redistribution of derivative works
-under the SIL Open Font License 1.1. Accordingly, this combined derivative font
-is released under the SIL Open Font License, Version 1.1, and all original
-copyright notices above are preserved.
+License status of this derivative work:
 
-Reserved font names of the original fonts ("Alibaba PuHuiTi", "Caviar Dreams")
-are NOT claimed as reserved names of this derivative work. The derivative font
-name "AlibabaPuHuiTi-CaviarDreams-Mix" only indicates the component sources, not
-endorsement by the original copyright holders.
+This derivative work was NOT authorized by either original copyright holder.
+Neither source font license permits modification combined with redistribution.
+Therefore this repository carries NO open-source license and grants no rights
+to any third party. It is provided only as a personal-use backup of a locally
+made derivative font.
 
-This derivative work is not affiliated with, endorsed by, or sponsored by
-Alibaba Group or Nicolas Despeyroux.
+This work is not affiliated with, endorsed by, or sponsored by Alibaba Group
+or Lauren Thompson.
 
-Full license text: see OFL.txt
+All glyph copyrights remain with the original copyright holders listed above.

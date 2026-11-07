@@ -1,8 +1,8 @@
 # AlibabaPuHuiTi-CaviarDreams-Mix
 
-融合 **阿里巴巴普惠体** 与 **Caviar Dreams** 两款开源字体制作的衍生字体，包含两个字重。
+融合 **阿里巴巴普惠体** 与 **Caviar Dreams** 两款字体制作的衍生字体，包含两个字重。
 
-> 这是一个衍生融合字体（Derivative Font），原始字体来源见 [NOTICE.txt](NOTICE.txt)。
+> 这是一个衍生融合字体（Derivative Font），原始字体来源与授权情况见 [NOTICE.txt](NOTICE.txt)。
 
 ## 包含字重
 
@@ -17,17 +17,12 @@
 - **macOS**：双击字体文件 → 字体册中点击「安装字体」
 - **Linux**：把 `.ttf` 复制到 `~/.local/share/fonts/`，然后执行 `fc-cache -f -v`
 
-## 授权协议
+## 使用范围
 
-本衍生字体以 **SIL Open Font License 1.1** 授权发布，全文见 [OFL.txt](OFL.txt)。
+本字体为个人自用制作的衍生字体，原字体版权方均未授权对其字体进行修改与二次发布，因此本仓库**不提供任何开源许可**，也不构成对第三方使用的授权。请勿将本字体用于对外分发或商业交付。
 
-简要说明：
+## 版权归属
 
-- 可以免费商用、修改、二次分发
-- 不可单独销售字体文件本身
-- 修改版不得使用原始字体的保留字体名（Reserved Font Name）
-- 修改版必须继续以 SIL OFL 1.1 协议发布
-
-## 免责声明
-
-作者不对使用本字体造成的任何直接或间接损失承担责任。使用前请自行核对原始字体协议的授权范围。
+- 中文字形版权归阿里巴巴集团所有
+- 西文字形版权归 Caviar Dreams 作者 Lauren Thompson 所有
+- 详见 [NOTICE.txt](NOTICE.txt)
